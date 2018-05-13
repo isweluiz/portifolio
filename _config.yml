@@ -11,7 +11,7 @@ owner: Isweluiz # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: isweluiz@hotmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "isweluiz.com.br/portifolio" # the base hostname & protocol for your site
+url: "isweluiz.com.br" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
