@@ -4,9 +4,8 @@
 # Site settings
 title: All Tech 
 description: Suporte é a nossa praia!  
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
+ 
+ 
 owner: isweluiz.com.br # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: isweluiz@hotmail.com
@@ -14,11 +13,11 @@ baseurl: "/portifolio" # the subpath of your site, e.g. /blog
 url: "isweluiz..com.br/portifolio" # the base hostname & protocol for your site
 social:
  # twitter: https://twitter.com/<username>
-  github: https://github.com/isweluiz
-  linkedin-square: https://linkedin.com/in/isweluiz
+   github: https://github.com/isweluiz
+   linkedin-square: https://linkedin.com/in/isweluiz
  # facebook-official: https://facebook.com/<username>
  # google-plus-square: https://plus.google.com/u/0/+<username>
- email: isweluiz@hotmail.com
+  #email: isweluiz@hotmail.com
   #flickr:
   instagram:isweluiz
   #youtube-square:
